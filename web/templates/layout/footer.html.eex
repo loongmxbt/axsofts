@@ -4,21 +4,20 @@
       <div class="row">
         <div class="col-md-4">
           <div class="logo"><a href="/"><img src="images/logo.png" height="45px" alt="AxSofts"></a></div>
-          <p>Lorem ipsum dolor sit amet, feugiat delicat<br /> liberavisse id cum no quo.</p>
+          <p>AxSofts是一家智慧办公软件公司，旨在给用户提供卓越的办公体验。</p>
         </div>
         <div class="col-md-2">
-          <h4>Navigation</h4>
+          <h4>导航</h4>
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Overview</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Buying Options</a></li>
-            <li><a href="#">Support</a></li>
+            <li><a href="/">巨斧软件</a></li>
+            <li><a href="#order">企业订购</a></li>
+            <li><a href="#pricing">个人购买</a></li>
+            <li><a href="#support">服务支持</a></li>
           </ul>
         </div>
         <div class="col-md-3">
           <div class="text-holder">
-            <strong class="phone"><a href="tel:3475677890">010-61702130</a></strong>
+            <strong class="phone"><a href="tel:61702130">010-61702130</a></strong>
             <span class="available">7x24小时在线服务支持</span>
             <h4>Beijing, China</h4>
             <address>北京市昌平区北清路1号珠江摩尔大厦</address>
@@ -26,8 +25,10 @@
         </div>
         <div class="col-md-3">
           <div class="text-frame">
-            <h4>Info</h4>
-            <p>Wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex commodo consequat. Autem vel hendrerit iriure dolor in hendrerit.</p>
+            <h4>其他信息</h4>
+            <p>QQ群：303671790</p>
+            <p>联系邮箱：<a href="mailto:axsofts@163.com">axsofts@163.com</a></p>
+            <p>备案号：<a href="http://www.miitbeian.gov.cn/">沪ICP备16046497号</a> </p>
           </div>
         </div>
       </div>

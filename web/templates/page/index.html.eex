@@ -130,16 +130,16 @@
       <div class="block-frame">
         <ul class="cta-list">
           <li>
-            <a href="#" class="btn btn-default"><i class="fa fa-github"></i> GitHub</a>
-            <p>7 352 Followers</p>
+            <a href="#" class="btn btn-default"><i class="fa fa-calculator"></i> AxMath产品手册</a>
+            <p>27352 使用者</p>
           </li>
           <li>
-            <a href="#" class="btn btn-info"><i class="fa fa-twitter"></i> Twitter</a>
-            <p>136 312 Followers</p>
+            <a href="#" class="btn btn-info"><i class="fa fa-paint-brush"></i> AxGlyph产品手册</a>
+            <p>136312 使用者</p>
           </li>
           <li>
-            <a href="#" class="btn btn-blue"><i class="fa fa-facebook"></i> Facebook</a>
-            <p>218 092 Subscribers</p>
+            <a href="#" class="btn btn-blue"><i class="fa fa-pencil"></i> AxPencil产品手册</a>
+            <p>8092 使用者</p>
           </li>
         </ul>
       </div>
@@ -190,10 +190,11 @@
           </div>
           <div class="price">
             <span class="price-main"><span class="symbol">$</span>39</span>
-            <span class="price-additional">per month</span>
+            <span class="price-additional">per machine</span>
           </div>
           <ul class="item-list">
             <li>Personal License</li>
+            <li>Free Update</li>
           </ul>
           <button type="button" class="btn btn-default rounded">purchase</button>
         </div>
@@ -203,11 +204,11 @@
           </div>
           <div class="price">
             <span class="price-main"><span class="symbol">$</span>39</span>
-            <span class="price-additional">per month</span>
+            <span class="price-additional">per machine</span>
           </div>
           <ul class="item-list">
-            <li>Professional License</li>
-            <li>Email Support</li>
+            <li>Personal License</li>
+            <li>Free Update</li>
           </ul>
           <button type="button" class="btn btn-default rounded">purchase</button>
         </div>
@@ -218,11 +219,12 @@
           </div>
           <div class="price">
             <span class="price-main"><span class="symbol">$</span>69</span>
-            <span class="price-additional">per month</span>
+            <span class="price-additional">per machine</span>
           </div>
           <ul class="item-list">
-            <li>1-12 Team Members</li>
-            <li>Phone Support</li>
+            <li>Personal License</li>
+            <li>Free Update</li>
+            <li>QQ/Phone Support</li>
           </ul>
           <button type="button" class="btn btn-default rounded">purchase</button>
         </div>
@@ -231,16 +233,20 @@
             <h3>AxBundle</h3> </div>
             <div class="price">
               <span class="price-main"><span class="symbol">$</span>99</span>
-              <span class="price-additional">per month</span>
+              <span class="price-additional">per machine</span>
             </div>
             <ul class="item-list">
-              <li>Unlimited Team Members</li>
-              <li>24/ 7 Phone Support</li>
+              <li>Personal License</li>
+              <li>AxMath+AxGlyph+AxPencil</li>
+              <li>QQ/Phone/Email Support</li>
             </ul>
             <button type="button" class="btn btn-default rounded">purchase</button>
           </div>
         </div>
-        <p class="silent">Duis lobortis arcu sed arcu tincidunt feugiat. Nulla nisi mauris, facilisis vitae aliquet id, imperdiet quis nibh. Donec eget elit eu libero tincidunt consequat nec elementum orci. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+        <p class="silent">
+          上述售价体系仅针对个人版用户，企业版用户请拨打企业采购专线，企业版为OEM版本，提供企业级的安装、升级、维护等服务。
+          <br> 同时，实际价格以终端渠道价为准，此处价格不包含优惠和返利政策，AxSofts拥有定价最终解释权。
+        </p>
       </div>
       <img src="images/img-decor-03.jpg" height="1175" width="1380" alt="" class="bg-stretch">
     </div>
