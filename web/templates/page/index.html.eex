@@ -153,7 +153,7 @@
       <h2>AxSofts 合作单位</h2>
       <ul class="testimonials">
         <li>
-          <div class="img-holder"><a href="#"><img src="images/logo-smashing.png" height="43" width="165" alt="smashing magazine"></a></div>
+          <div class="img-holder"><a href="#"><img src="images/logo-office.png" height="50" alt="smashing magazine"></a></div>
           <p><em>Sed vestibulum scelerisque urna, eu finibus leo facilisis sit amet. Proin id dignissim magna. Sed varius urna et pulvinar venenatis. </em></p>
         </li>
         <li>
@@ -161,15 +161,15 @@
           <p><em>Donec euismod dolor ut ultricies consequat. Vivamus urna ipsum, rhoncus molestie neque ac, mollis eleifend nibh.</em></p>
         </li>
         <li>
-          <div class="img-holder"><a href="#"><img src="images/logo-w.png" height="64" width="64" alt="w"></a></div>
+          <div class="img-holder"><a href="#"><img src="images/logo-wordpress.png" height="60" alt="w"></a></div>
           <p><em>In efficitur in velit et tempus. Duis nec odio dapibus, suscipit erat fringilla, imperdiet nibh. Morbi tempus auctor felis ac vehicula. </em></p>
         </li>
         <li>
-          <div class="img-holder"><a href="#"><img src="images/logo-pixel.png" height="24" width="225" alt="Pixel Buddha"></a></div>
+          <div class="img-holder"><a href="#"><img src="images/logo-science.jpg" height="60" width="160" alt="Pixel Buddha"></a></div>
           <p><em>Sed vestibulum scelerisque urna, eu finibus leo facilisis sit amet. Proin id dignissim magna. Sed varius urna et pulvinar venenatis. </em></p>
         </li>
         <li>
-          <div class="img-holder"><a href=""><img src="images/logo-cb.png" height="34" width="166" alt="creative bloq"></a></div>
+          <div class="img-holder"><a href=""><img src="images/logo-wps.png" height="50" alt="creative bloq"></a></div>
           <p><em>Praesent ut eros tristique, malesuada lectus vel, lobortis massa. Nulla faucibus lorem id arcu consequat faucibus. </em></p>
         </li>
         <li>
