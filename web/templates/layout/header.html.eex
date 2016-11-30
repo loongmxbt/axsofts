@@ -1,0 +1,28 @@
+<header id="header">
+  <div class="container">
+    <div class="logo"><a href="/"><img src="images/logo.svg" alt="AxSoft"></a></div>
+    <nav id="nav">
+      <div class="opener-holder">
+        <a href="#" class="nav-opener"><span></span></a>
+      </div>
+      <a href="/#buy" class="btn btn-primary rounded">企业订购</a>
+      <div class="nav-drop">
+        <ul>
+          <li class="active visible-sm visible-xs"><a href="/">主页</a></li>
+          <li><a href="#">介绍</a></li>
+          <li><a href="#">功能</a></li>
+          <li><a href="#">反馈</a></li>
+          <li><a href="#">支持</a></li>
+        </ul>
+        <div class="drop-holder visible-sm visible-xs">
+          <span>Follow Us</span>
+          <ul class="social-networks">
+            <li><a class="fa fa-qq" href="#"></a></li>
+            <li><a class="fa fa-wechat" href="#"></a></li>
+            <li><a class="fa fa-weibo" href="#"></a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
