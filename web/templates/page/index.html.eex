@@ -96,7 +96,7 @@
                     <a href="#">@DoctorS</a>
                   </div>
                 </div>
-                <p><a href="#">@Pixelbuddha</a> Suspendisse sodales sem est, in scelerisque felis scelerisque in. Aenean faucibus mollis risus. Praesent sit amet erat eget eros.</p>
+                <p><a href="#">AxMath</a> 最令我惊艳的就是它的语义化数学输入功能，从此我的公式输入完全不需要鼠标点击！</p>
                 <em class="date">2 hours ago</em>
               </div>
               <div class="slide">
@@ -107,7 +107,7 @@
                     <a href="#">@shanejen</a>
                   </div>
                 </div>
-                <p><a href="#">@PSD2HTML</a> Ut id porta quam. Morbi sit amet magna lobortis, hendrerit lorem et, tincidunt lorem. Sed vulputate condimentum lorem vel dapibus</p>
+                <p><a href="#">AxMath</a> 的一个贴心功能是公式到LaTeX代码的转换，我不用每次都查阅工具书来记LaTeX代码了！</p>
                 <em class="date">5 hours ago</em>
               </div>
               <div class="slide">
@@ -118,7 +118,7 @@
                     <a href="#">@bellraffi</a>
                   </div>
                 </div>
-                <p><a href="#">@codrops</a> Curabitur nec dapibus ligula. In eget ante in nisi laoreet accumsan pretium vitae est. Nulla lacinia efficitur dui eget accumsan?</p>
+                <p><a href="#">AxGlyph</a> 提供了数百种基本的图形功能，我不用费劲地折腾多款软件来完成我的教案啦！</p>
                 <em class="date">1 day ago</em>
               </div>
             </div>
@@ -153,28 +153,28 @@
       <h2>AxSofts 合作单位</h2>
       <ul class="testimonials">
         <li>
-          <div class="img-holder"><a href="#"><img src="images/logo-office.png" height="50" alt="smashing magazine"></a></div>
+          <div class="img-holder"><a href="#"><img src="images/logo-office.png" height="50" alt="office"></a></div>
           <p><em>AxMath和AxGlyph能同Microsoft Office完美集成，您可以快速插入公式或图表。 </em></p>
         </li>
         <li>
-          <div class="img-holder"><a href="#"><img src="images/logo-wps.png" height="50" alt="codrops"></a></div>
+          <div class="img-holder"><a href="#"><img src="images/logo-wps.png" height="50" alt="wps"></a></div>
           <p><em>AxMath和AxGlyph同样能与WPS Office完美集成，您可以快速插入公式或图表。</em></p>
         </li>
         <li>
-          <div class="img-holder"><a href="#"><img src="images/logo-wordpress.png" height="60" alt="w"></a></div>
+          <div class="img-holder"><a href="#"><img src="images/logo-wordpress.png" height="60" alt="wordpress"></a></div>
           <p><em>AxMath与AxGlyph支持导出多种图片格式，您可以在Wordpress的写作中导入图片。</em></p>
         </li>
         <li>
-          <div class="img-holder"><a href="#"><img src="images/logo-science.jpg" height="60" width="160" alt="Pixel Buddha"></a></div>
+          <div class="img-holder"><a href="#"><img src="images/logo-science.jpg" height="60" width="160" alt="science"></a></div>
           <p><em>AxMath与Science杂志合作，编写数学公式，转换LaTeX代码，生成优雅的数学公式。</em></p>
-        </li>
-        <li>
-          <div class="img-holder"><a href=""><img src="images/logo-wps.png" height="50" alt="creative bloq"></a></div>
-          <p><em>Praesent ut eros tristique, malesuada lectus vel, lobortis massa. Nulla faucibus lorem id arcu consequat faucibus. </em></p>
         </li>
         <li>
           <div class="img-holder"><a href="#"><img src="images/logo-tnw.png" height="34" width="108" alt="tnw"></a></div>
           <p><em>与众多新兴科技门户网站合作，通过MathJax和LaTeX在网页端输出优美的公式。</em></p>
+        </li>
+        <li>
+          <div class="img-holder"><a href=""><img src="images/logo-tex.png" height="65" alt="tex"></a></div>
+          <p><em>能够轻松的将公式批量转换为TeX/LaTeX，为您的不同文档排版提供无缝衔接。 </em></p>
         </li>
       </ul>
     </div>
