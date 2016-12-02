@@ -154,19 +154,19 @@
       <ul class="testimonials">
         <li>
           <div class="img-holder"><a href="#"><img src="images/logo-office.png" height="50" alt="smashing magazine"></a></div>
-          <p><em>Sed vestibulum scelerisque urna, eu finibus leo facilisis sit amet. Proin id dignissim magna. Sed varius urna et pulvinar venenatis. </em></p>
+          <p><em>AxMath和AxGlyph能同Microsoft Office完美集成，您可以快速插入公式或图表。 </em></p>
         </li>
         <li>
-          <div class="img-holder"><a href="#"><img src="images/logo-codrops.png" height="50" width="148" alt="codrops"></a></div>
-          <p><em>Donec euismod dolor ut ultricies consequat. Vivamus urna ipsum, rhoncus molestie neque ac, mollis eleifend nibh.</em></p>
+          <div class="img-holder"><a href="#"><img src="images/logo-wps.png" height="50" alt="codrops"></a></div>
+          <p><em>AxMath和AxGlyph同样能与WPS Office完美集成，您可以快速插入公式或图表。</em></p>
         </li>
         <li>
           <div class="img-holder"><a href="#"><img src="images/logo-wordpress.png" height="60" alt="w"></a></div>
-          <p><em>In efficitur in velit et tempus. Duis nec odio dapibus, suscipit erat fringilla, imperdiet nibh. Morbi tempus auctor felis ac vehicula. </em></p>
+          <p><em>AxMath与AxGlyph支持导出多种图片格式，您可以在Wordpress的写作中导入图片。</em></p>
         </li>
         <li>
           <div class="img-holder"><a href="#"><img src="images/logo-science.jpg" height="60" width="160" alt="Pixel Buddha"></a></div>
-          <p><em>Sed vestibulum scelerisque urna, eu finibus leo facilisis sit amet. Proin id dignissim magna. Sed varius urna et pulvinar venenatis. </em></p>
+          <p><em>AxMath与Science杂志合作，编写数学公式，转换LaTeX代码，生成优雅的数学公式。</em></p>
         </li>
         <li>
           <div class="img-holder"><a href=""><img src="images/logo-wps.png" height="50" alt="creative bloq"></a></div>
@@ -174,7 +174,7 @@
         </li>
         <li>
           <div class="img-holder"><a href="#"><img src="images/logo-tnw.png" height="34" width="108" alt="tnw"></a></div>
-          <p><em>Fusce pharetra erat id odio blandit, nec pharetra eros venenatis. Pellentesque porttitor cursus massa et vestibulum.</em></p>
+          <p><em>与众多新兴科技门户网站合作，通过MathJax和LaTeX在网页端输出优美的公式。</em></p>
         </li>
       </ul>
     </div>
