@@ -272,33 +272,26 @@
     <div class="content">
       <div class="row">
         <div class="col-md-4">
-          <h3>New in Release 2.8</h3>
-          <h4>Fully Available: Live Preview Support for Multiple Browsers</h4>
-          <p>Morbi faucibus ante ipsum, a tincidunt libero posuere et. Etiam tempor tortor at odio condimentum, sit amet fringilla ligula maximus. Mauris venenatis nisl nisi, et dictum dui aliquet nec. Sed erat, nec aliquam vel, aliquam ac felis. </p>
-          <h4>Improved Support for Typing </h4>
-          <p>Nulla purus quam, pulvinar sed ante et, feugiat maximus velit. Donec eu elit mauris. </p>
-          <h4>Improved Stability</h4>
-          <p>Proin id ligula eget massa tincidunt molestie. Morbi urna lectus, molestie vel quam vel, iaculis fermentum nunc. Morbi imperdiet, leo in interdum pretium.</p>
-          <div class="btn-holder">
-            <a href="#" class="btn btn-link">Go to Release Log</a>
-          </div>
+          <h3>AxMath 最新版本 v3.0</h3>
+          <h4>更加完善的公式格式调整</h4>
+          <p>你可以在编辑器中自由调节公式字体，样式甚至颜色！同时我们加入了更为精细的空格选项，让您的公式看起来像一个完美的艺术品！ </p>
+          <h4>手写公式识别</h4>
+          <p>与Microsoft的Math Panel配合，你可以在平板电脑上直接书写公式，然后转入到AxMath中去！手写识别率高达99%！ </p>
+          <h4>提升了兼容性</h4>
+          <p>针对最新的Win10操作系统和Office2016进行了兼容性增强，不久后您就可以在微软的软件商城里面看到我们的产品啦！</p>
+
         </div>
         <div class="col-md-4">
-          <h3>Popular Extensions</h3>
-          <h4><a href="#">Custom Themes 1.1</a></h4>
-          <p>Etiam viverra vulputate diam, pulvinar cursus augue egestas ullamcorper. </p>
-          <h4><a href="#">Filter Forge</a></h4>
-          <p>Nulla purus quam, pulvinar sed et, feugiat maximus velit.</p>
-          <h4><a href="#">WebZap</a></h4>
-          <p>Morbi imperdiet, leo in interdum pretium, elit eros dapibus velit, eu posuere quam diam vitae orci. Suspendisse interdum accumsan magna vitae commodo.</p>
-          <h4><a href="#">Renamy</a></h4>
-          <p>Vivamus consectetur suscipit elit, ut lacinia diam elementum et.</p>
-          <div class="btn-holder">
-            <a href="#" class="btn btn-link">Go to Marketplace</a>
-          </div>
+          <h3>AxGlyph 最新版本 v2.0</h3>
+          <h4>更新了100多种器件模板</h4>
+          <p>这次我们针对图表、物理、化学、电路等100多个器件模板进行了更新。您可以找到任何想要的元件！ </p>
+          <h4>更强大的自定义模板功能</h4>
+          <p>您可以定义出您想要的任何基本器件，定义器件的连接方式，快速修改拉杆，参数设置面板等。</p>
+          <h4>模板库分享功能</h4>
+          <p>您在定义好了自己的模板库后，您可以将其导出分享给他人使用，还不快快和您的小伙伴们共建军火库吗？立即行动起来吧！</p>
         </div>
         <div class="col-md-4">
-          <h3>New From the Blog</h3>
+          <h3>AxSofts更新历史</h3>
           <h4><a href="#">Morbi imperdiet, leo in interdum pretium.</a></h4>
           <time class="date" datetime="2015-02-18">February 18, 2015</time>
           <h4><a href="#">Donec orci ante, porta vel nulla quis, aliquet hendrerit leo.</a></h4>
@@ -307,11 +300,6 @@
           <time class="date" datetime="2015-02-06">February 6, 2015</time>
           <h4><a href="#">Quisque varius ante lorem, eget pretium purus hendrerit a egestas. </a></h4>
           <time class="date" datetime="2015-02-02">February 2, 2015</time>
-          <h4><a href="#">Phasellus in augue risus. </a></h4>
-          <time class="date" datetime="2015-01-23">January 23, 2015</time>
-          <div class="btn-holder">
-            <a href="#" class="btn btn-link">Go to Blog</a>
-          </div>
         </div>
       </div>
     </div>
