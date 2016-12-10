@@ -292,10 +292,10 @@
         </div>
         <div class="col-md-4">
           <h3>AxSofts更新历史</h3>
-          <h4><a href="#">Morbi imperdiet, leo in interdum pretium.</a></h4>
-          <time class="date" datetime="2015-02-18">February 18, 2015</time>
-          <h4><a href="#">Donec orci ante, porta vel nulla quis, aliquet hendrerit leo.</a></h4>
-          <time class="date" datetime="2015-02-12">February 12, 2015</time>
+          <h4><a href="#">AxMath v3.0</a></h4>
+          <time class="date" datetime="2016-12-10">2016年12月10日</time>
+          <h4><a href="#">AxGlyph v2.0</a></h4>
+          <time class="date" datetime="2016-11-20">2016年11月20日</time>
           <h4><a href="#">Suspendisse egestas vulputate luctus.</a></h4>
           <time class="date" datetime="2015-02-06">February 6, 2015</time>
           <h4><a href="#">Quisque varius ante lorem, eget pretium purus hendrerit a egestas. </a></h4>
